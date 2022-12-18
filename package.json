@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/jaydeep-jain/Open-to-Intern-Project.git"
   },
-  "author": "",
+  "author": "jaydeep jain",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jaydeep-jain/Open-to-Intern-Project.git/issues"
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/jaydeep-jain/Open-to-Intern-Project.git#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
-    "express": "^4.18.1",
+    "express": "^4.18.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.6.0",
     "nodemon": "^2.0.19"
